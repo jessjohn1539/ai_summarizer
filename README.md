@@ -1,3 +1,3 @@
-<<<<<<< HEAD
+
 # ai_summarizer
-=======
+
